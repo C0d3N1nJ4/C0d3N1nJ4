@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Naiomi
 
 - 🔭 I’m currently working on Spring Framework 6 microservices
 - 🌱 I’m currently learning Kotlin
