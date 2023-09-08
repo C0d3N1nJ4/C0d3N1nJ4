@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Naiomi
 
-- 🔭 I’m currently working on Spring Framework 6 microservices
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on Java projects
+- 🔭 I’m currently working on Kotlin and Clojure microservices
+- 🌱 I’m currently learning Spring Framework 6 and Spring Boot 3
+- 👯 I’m looking to collaborate on Java and Kotlin projects
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
