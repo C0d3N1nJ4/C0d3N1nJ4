@@ -26,15 +26,15 @@ I'm a passionate software engineer specializing in Kotlin and Java. I love build
 
 ### 🚀 Quick Stats
 
-![Naiomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Naiomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=C0d3N1nJ4&show_icons=true&theme=tokyonight)
 
 ---
 
 
 ### Let's Connect 🤝
 
-[<img align="left" alt="Naiomi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Naiomi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="Naiomi | LinkedIn" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Naiomi | LinkedIn" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
 
 [website]: https://www.naiomi.online
 [linkedin]: https://www.linkedin.com
