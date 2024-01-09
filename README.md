@@ -1,13 +1,15 @@
 ### Hi there 👋 I'm Naiomi
 
-- 🔭 I’m currently working on Kotlin and Java microservices
-- 🌱 I’m currently learning Spring Framework 6 and Spring Boot 3
-- 👯 I’m looking to collaborate on Java and Kotlin projects
-<!--- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
-- 📫 How to reach me: https://www.naiomi.online
+---
+
+I'm a passionate software engineer specializing in Kotlin and Java. I love building efficient, scalable microservices and I'm always eager to learn new technologies and frameworks.
+
+- 🔭 I’m currently working on Kotlin and Java microservices.
+- 🌱 I’m learning Spring Framework 6 and Spring Boot 3.
+- 👯 I’m looking to collaborate on Java and Kotlin projects.
+- 📫 How to reach me: [Naiomi's Personal Website](https://www.naiomi.online)
+
+---
 
 ### Languages and Tools:
 
@@ -19,4 +21,23 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### 🚀 Quick Stats
+
+![Naiomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+---
+
+
+### Let's Connect 🤝
+
+[<img align="left" alt="Naiomi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Naiomi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
+
+[website]: https://www.naiomi.online
+[linkedin]: https://www.linkedin.com
+
+
 
