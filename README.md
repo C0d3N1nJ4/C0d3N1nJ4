@@ -4,8 +4,8 @@
 
 I'm a passionate software engineer specializing in Kotlin and Java. I love building efficient, scalable microservices and I'm always eager to learn new technologies and frameworks.
 
-- 🔭 I’m currently working on Kotlin and Java microservices using Spring Framework 6 and Spring Boot 3.
-- 🌱 I’m learning all things Kafka.
+- 🔭 I’m currently working on Java microservices using Micronaut.
+- 🌱 I’m learning all things front-end such as Typescript, Svelte.
 - 👯 I’m looking to collaborate on Java and Kotlin projects.
 - 📫 How to reach me: [Naiomi's Personal Website](https://www.naiomi.online)
 
