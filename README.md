@@ -19,14 +19,8 @@ I'm a passionate software engineer specializing in Kotlin and Java. I love build
 ![Kafka](https://img.shields.io/badge/Kafka-%2300BFFF.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-%23F7DF1E.svg?&style=for-the-badge&logo=typescript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-### 🚀 Quick Stats
-
-![Naiomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=C0d3N1nJ4&show_icons=true&theme=tokyonight)
 
 ---
