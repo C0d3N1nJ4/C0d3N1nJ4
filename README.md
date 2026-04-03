@@ -2,11 +2,11 @@
 
 ---
 
-I'm a passionate software engineer specializing in Kotlin and Java. I love building efficient, scalable microservices and I'm always eager to learn new technologies and frameworks.
+I'm a passionate software engineer specializing in Java. I love building efficient, scalable microservices and I'm always eager to learn new technologies and frameworks.
 
-- 🔭 I’m currently working on Java microservices using Micronaut.
-- 🌱 I’m learning all things front-end such as Typescript, Svelte.
-- 👯 I’m looking to collaborate on Java and Kotlin projects.
+- 🔭 I’m currently working on Java microservices using Micronaut and Spring Framework.
+- 🌱 I’m learning all things AI
+- 👯 I’m looking to collaborate on Java projects.
 - 📫 How to reach me: [Naiomi's Personal Website](https://www.naiomi.online)
 
 ---
