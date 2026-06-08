@@ -2,11 +2,12 @@
 
 ---
 
-I'm a passionate software engineer specializing in Java. I love building efficient, scalable microservices and I'm always eager to learn new technologies and frameworks.
+I'm a passionate AI engineer focused on building intelligent, practical systems. I love combining strong software engineering foundations with AI to create smarter products and better developer workflows.
 
-- 🔭 I’m currently working on Java microservices using Micronaut and Spring Framework.
-- 🌱 I’m learning all things AI
-- 👯 I’m looking to collaborate on Java projects.
+- 🔭 I’m currently working on AI-powered applications, intelligent automation, and LLM-driven solutions.
+- 🌱 I’m actively learning AI, including machine learning fundamentals, LLM applications, and prompt engineering.
+- 🤖 I’m especially interested in practical AI use cases, intelligent automation, and building AI-powered developer tools.
+- 👯 I’m looking to collaborate on AI engineering projects.
 - 📫 How to reach me: [Naiomi's Personal Website](https://www.naiomi.online)
 
 ---
@@ -15,6 +16,7 @@ I'm a passionate software engineer specializing in Java. I love building efficie
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-%2300BFFF.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
